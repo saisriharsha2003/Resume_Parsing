@@ -1,1 +1,6 @@
 parcv/__pycache__
+ner_dates.pickle
+ner.pickle
+pos_tagger.pickle
+qa_squad.pickle
+zero_shot_classifier.pickle
